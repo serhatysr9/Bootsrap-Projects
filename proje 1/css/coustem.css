@@ -1,0 +1,18 @@
+/* Background image  */
+.dark-bg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+    url("img/1.jpg");
+  background-size: cover;
+  background-position: center center;
+  /* background-attachment: fixed; arkadaki resmin kayan ekran olmasını istersek aktif ederiz */
+}
+
+/* Hero */
+
+#hero .container {
+  height: 50vh;
+}
+
+.generic {
+  padding: 100px 0;
+}
